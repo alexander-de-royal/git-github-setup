@@ -3,3 +3,4 @@ Chapter 1
  - We added a huge paragraph
  - We finished chapter one
  - We make some more changes
+ - More changes
