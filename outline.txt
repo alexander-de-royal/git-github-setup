@@ -4,3 +4,4 @@ Chapter 1
  - We finished chapter one
  - We make some more changes
  - More changes
+ - Fix a typo
