@@ -2,3 +2,4 @@ Chapter 1
  - I am writing the great Gatsby
  - We added a huge paragraph
  - We finished chapter one
+ - We make some more changes
